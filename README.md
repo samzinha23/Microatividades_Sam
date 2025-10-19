@@ -33,16 +33,16 @@ Objetivos da prática
 
 <hr>
 
-<h2> ContextualizaÃ§Ã£o </h2>
+<h2> Contextualizaçao </h2>
 
-Como Analista de Dados, vocÃª recebeu, em um novo projeto, um conjunto de
-dados. Sua principal tarefa Ã© tratar os dados desse conjunto a fim de que possam
+Como Analista de Dados, voce recebeu, em um novo projeto, um conjunto de
+dados. Sua principal tarefa Ão tratar os dados desse conjunto a fim de que possam
 ser utilizados para a descoberta de conhecimento atravÃ©s de sua posterior
-anÃ¡lise e interpretaÃ§Ã£o. Para tal tarefa, vocÃª deverÃ¡ utilizar a linguagem Python e
+analise e interpretassão. Para tal tarefa, vocÃª devera utilizar a linguagem Python e
 a biblioteca Pandas.
 <hr>
 
-<h2> CÃ³digos </h2>
+<h2> Codigos </h2>
 
 # As atividades foram desenvolvidas no Google Colab.
  https://github.com/samzinha23/Microatividades_Sam.git
