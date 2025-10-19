@@ -33,13 +33,6 @@ Objetivos da prática
 
 <hr>
 
-<h2> Contextualizaçao </h2>
-
-Como Analista de Dados, voce recebeu, em um novo projeto, um conjunto de
-dados. Sua principal tarefa Ão tratar os dados desse conjunto a fim de que possam
-ser utilizados para a descoberta de conhecimento atravÃ©s de sua posterior
-analise e interpretassão. Para tal tarefa, vocÃª devera utilizar a linguagem Python e
-a biblioteca Pandas.
 <hr>
 
 <h2> Codigos </h2>
