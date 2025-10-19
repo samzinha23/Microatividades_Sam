@@ -21,12 +21,12 @@ Repositório: https://github.com/samzinha23/Microatividades_Sam.git
 
 Objetivos da prática
 
-   . Descrever como ler um arquivo CSV usando a biblioteca Pandas (Python);
-   . Descrever como criar um subconjunto de dados a partir de um conjunto existente
+    Descrever como ler um arquivo CSV usando a biblioteca Pandas (Python);
+    Descrever como criar um subconjunto de dados a partir de um conjunto existente
     usando a biblioteca Pandas (Python);
-   . Descrever como configurar o número máximo de linhas a serem exibidas na
+    Descrever como configurar o número máximo de linhas a serem exibidas na
     visualização de um conjunto de dados usando a biblioteca Pandas (Python);
-   . Descrever como exibir as primeiras e últimas “N” linhas de um conjunto de dados
+    Descrever como exibir as primeiras e últimas “N” linhas de um conjunto de dados
     usando a biblioteca Pandas (Python); Descrever como exibir informações gerais
     sobre as colunas, linhas e dados de um conjunto de dados usando a biblioteca
     Pandas (Python);
