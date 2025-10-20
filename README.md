@@ -33,6 +33,18 @@ Objetivos da prática
 
 <hr>
 
+✨ Conclusão Geral
+
+Durante a realização das microatividades, consegui entender na prática como a biblioteca Pandas facilita o trabalho com dados no Python. Aprendi a importar arquivos CSV, visualizar os dados de diferentes formas e também a criar subconjuntos específicos conforme a necessidade.
+
+Além disso, foi possível perceber a importância da limpeza e formatação dos dados, como o tratamento de valores nulos e o ajuste de tipos de dados — etapas essenciais para garantir a consistência das informações antes de qualquer análise.
+
+Outro ponto importante foi aprender a extrair informações gerais sobre um conjunto de dados, como a quantidade de linhas e colunas, tipos de dados, existência de valores nulos e o uso de memória. Isso me ajudou a compreender melhor a estrutura e as características do dataset de forma mais técnica e detalhada.
+
+Também explorei as opções de configuração e visualização do Pandas, o que é muito útil ao lidar com conjuntos grandes de informações.
+
+No geral, essa prática me ajudou a compreender melhor como o Pandas é uma ferramenta poderosa e indispensável para quem deseja trabalhar com análise e manipulação de dados, sendo uma base importante para estudos futuros em Big Data e Ciência de Dados.
+
 <hr>
 
 <h2> Codigos </h2>
