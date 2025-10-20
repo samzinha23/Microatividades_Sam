@@ -19,7 +19,7 @@ Integrante: Samantha Karina Barbosa Torres.
 
 Repositório: https://github.com/samzinha23/Microatividades_Sam.git
 
-Objetivos da prática
+📋Objetivos da prática
 
     Descrever como ler um arquivo CSV usando a biblioteca Pandas (Python);
     Descrever como criar um subconjunto de dados a partir de um conjunto existente
